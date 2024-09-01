@@ -3,9 +3,9 @@ A simple application to see, add, and remove books from the list. The applicatio
 
 ## How prepare the project?
 ### Frontend
-Visit BookListApp-Frontend- repository at address: 
+Visit BookListApp-Frontend- repository at address: https://github.com/GiorgosDen/BookListApp-Frontend-
 
 ### Backend
-Visit BookListApp-Backtend- repository at address:
+Visit BookListApp-Backtend- repository at address: https://github.com/GiorgosDen/BookListApp-Backend-
 
 In total, the backend or the NodeJS project runs locally and we visit the address http://192.168.1.113:3000/, while the React project runs
