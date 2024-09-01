@@ -22,4 +22,4 @@ When we open the app (React project), the book list and form appear. We have 2 o
 ![Removing book](/Resources/RemoveBook.png)
 
 ### Video
-![Video](/Resources/BookListAppExample.mov)
+![Video](/Resources/BookListExample.mov)
