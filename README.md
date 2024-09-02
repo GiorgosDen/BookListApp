@@ -8,7 +8,7 @@ Visit BookListApp-Frontend- repository at address: https://github.com/GiorgosDen
 ### Backend
 Visit BookListApp-Backtend- repository at address: https://github.com/GiorgosDen/BookListApp-Backend-
 
-In total, the backend or the NodeJS project runs locally and we visit the address http://192.168.1.113:3000/, while the React project runs
+In total, the backend or the NodeJS project runs locally and we visit the address http://localhost:3000/, while the React project runs. You can use the React's network address like http://192.168.1.113:3000/, but must be added to the NodeJS project. 
 
 ### How to use the project?
 When we open the app (React project), the book list and form appear. We have 2 options about the form, add a new book (title and author required) and delete a book (using id). In case we fill out the entire form and call a specific function by clicking a button, the App takes the required data (title and author to add the book and id to delete the book)
